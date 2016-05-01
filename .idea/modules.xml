@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AngularJSLiveLearning/AngularJSLiveLearning.iml" filepath="$PROJECT_DIR$/AngularJSLiveLearning/AngularJSLiveLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace4Angular1.3.iml" filepath="$PROJECT_DIR$/.idea/workspace4Angular1.3.iml" />
     </modules>
   </component>
